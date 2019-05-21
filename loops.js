@@ -16,6 +16,9 @@ function whileLoop(number) {
     return "done"
 }
 
-function doWhile(num) {
-  
+function doWhileLoop(num) {
+  while (function incrementVariable() {
+  i = i + 1;
+  return i;
+}) === (< num)
 }
