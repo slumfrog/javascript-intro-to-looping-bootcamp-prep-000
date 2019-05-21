@@ -16,6 +16,6 @@ function whileLoop(number) {
     return "done"
 }
 
-function doWhile(i) {
+function doWhile(num) {
   
 }
