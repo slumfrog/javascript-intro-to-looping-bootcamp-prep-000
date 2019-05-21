@@ -10,7 +10,12 @@ return array
 }
 
 function whileLoop(number) {
-  while (number > 0) 
-    {console.log(number--)}
+  while (number > 0) {
+    console.log(number--)
+  }
     return "done"
+}
+
+function doWhile(i) {
+  
 }
