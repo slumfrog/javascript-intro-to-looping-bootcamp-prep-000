@@ -20,5 +20,5 @@ function doWhileLoop(num) {
   while (function incrementVariable() {
   i = i + 1;
   return i;
-}) === (< num)
+}) === (< number)
 }
